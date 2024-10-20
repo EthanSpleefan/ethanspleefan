@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm EthanSpleefan
 
-<!--
-**EthanSpleefan/ethanspleefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **I code. sometimes.**
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Intrests
+- **Programming Languages**: Python, Bash, HTML/CSS, JavaScript, C#
+- **Cloud Services**: DigitalOcean, Cloudflare, Microsoft Azure / AD
+- **Operating Systems**: Ubuntu Server, Debian, Raspberry Pi OS
+
+### 🎮 Projects
+- **[My webpage!](https://www.ethanspleefan.me)**  
+  My super awesome website!
+  
+- **[Digital Ocean Discord Bot](https://github.com/EthanSpleefan/DigitalOcean-DiscordBot)**  
+  API integration for resizing Droplets and server management from discord!
+
+- **[HandController](https://github.com/EthanSpleefan/HandController)**  
+  API integration for resizing Droplets and server management from discord!
+
+### 📫 Get in Touch
+- Discord: EthanSpleefan
+
+### 💬 Fun Fact
+- I like breathing air. sometimes.
