@@ -17,10 +17,12 @@ Welcome to my GitHub!
   API integration for resizing Droplets and server management from discord!
 
 - **[HandController](https://github.com/EthanSpleefan/HandController)**  
-  API integration for resizing Droplets and server management from discord!
+  Python based hand guesture recognition for controlling games
 
 ### 📫 Get in Touch
 - Discord: EthanSpleefan
+- EMail: hello@ethanspleefan.me
 
 ### 💬 Fun Fact
 - I like breathing air. sometimes.
+- 
