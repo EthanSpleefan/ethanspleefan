@@ -2,7 +2,7 @@
 
 👨‍💻 **I code. sometimes.**
 
-Welcome to my GitHub!
+Welcome to my GitHub Page!
 
 ### 🛠️ My Intrests
 - **Programming Languages**: Python, Bash, HTML/CSS, JavaScript, C#
