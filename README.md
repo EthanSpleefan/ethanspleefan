@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm EthanSpleefan
 
-👨‍💻 **I code. sometimes.**
+👨‍💻 **I code. sometimes...**
 
 Welcome to my GitHub Page!
 
@@ -8,21 +8,25 @@ Welcome to my GitHub Page!
 - **Programming Languages**: Python, Bash, HTML/CSS, JavaScript, C#
 - **Cloud Services**: DigitalOcean, Cloudflare, Microsoft Azure / AD
 - **Operating Systems**: Ubuntu Server, Debian, Raspberry Pi OS
+- **Games!**: Minecraft, SCP: SL, R6 + others!
 
 ### 🎮 Projects
 - **[My webpage!](https://www.ethanspleefan.me)**  
   My super awesome website!
-  
-- **[Digital Ocean Discord Bot](https://github.com/EthanSpleefan/DigitalOcean-DiscordBot)**  
-  API integration for resizing Droplets and server management from discord!
 
 - **[HandController](https://github.com/EthanSpleefan/HandController)**  
   Python based hand guesture recognition for controlling games
 
+- **[FoundationX Web](https://github.com/apollo-main/foundationX-web)**  
+  FoundationX Website Main! I help maintain and update fxweb :)
+
+- **FoundationX Management**  
+  FoundationX Core Functions and Configs! (no link :p, for obvious reasons 🤦)
+
 ### 📫 Get in Touch
 - Discord: EthanSpleefan
-- EMail: hello@ethanspleefan.me
+- mail@: hello@ethanspleefan.me
 
 ### 💬 Fun Fact
 - I like breathing air. sometimes.
-- 
+- I am trapped inside of the server ⚠️
