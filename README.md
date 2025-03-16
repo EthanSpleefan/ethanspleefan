@@ -9,13 +9,12 @@
 
 - 🌱 I’m currently learning **Vite**
 
-- 💬 Ask me about **Python, Linux**
+- 💬 Ask me about **Python, Linux, Proxmox**
 
 - 📫 How to reach me **hello@ethanspleefan.me**
 
-- ⚡ Homelab Enthusiast **I like lab**
+- ⚡ Homelab Enthusiast **I <3 my lab**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
