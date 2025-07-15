@@ -1,6 +1,7 @@
 <h1 align="left">Hello, I'm Ethan a software developer in Australia</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanspleefan&label=Profile%20views&color=0e75b6&style=flat" alt="ethanspleefan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanspleefan&label=Profile%20views&color=0e75b6&style=flat" alt="ethanspleefan" /> </p> ![GitHub User's stars](https://img.shields.io/github/stars/ethanspleefan)
+
 
 <p align="left">
 </p>
