@@ -11,7 +11,7 @@
 
 ### 🧩 Tech I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,nodejs,express,supabase,cloudflare,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,nodejs,express,supabase,cloudflare,linux,git,github,vercel" />
 </p>
 
 ---
